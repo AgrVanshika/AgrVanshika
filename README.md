@@ -10,8 +10,9 @@
 - 😄 Pronouns: she/her
 
 Connect with me:
-![image](https://user-images.githubusercontent.com/94245786/216851067-4f4bbfc9-00a0-4801-9613-f27efc92b9f8.png)
-
 https://www.linkedin.com/in/agrawal-vanshika/
 https://twitter.com/agrvanshika07
 https://instagram.com/agr.vanshika07
+
+![Vanshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgrVanshika&theme=dracula&show_icons=true)
+
