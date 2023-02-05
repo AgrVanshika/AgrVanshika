@@ -1,5 +1,7 @@
                                        ## Hi there 👋, I am Vanshika Agrawal   
-
+                                       ##
+                                       
+## ![](https://komarev.com/ghpvc/?username=your-github-AgrVanshika&color=green)
 <!--
 **AgrVanshika/AgrVanshika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
