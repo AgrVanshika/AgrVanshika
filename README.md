@@ -1,4 +1,5 @@
-                                        Hi there 👋, I am Vanshika Agrawal   
+                                        Hi there 👋, I am Vanshika Agrawal
+                                           CS undergraduate student  
                                        
                                        
 ## ![](https://komarev.com/ghpvc/?username=your-github-AgrVanshika&color=green)
