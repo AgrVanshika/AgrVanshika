@@ -1,7 +1,7 @@
-                                        Hi there 👋, I am Vanshika Agrawal
-                                           CS undergraduate student  
+                                        
                                        
-                                       
+                                  # Hi there 👋, I am Vanshika Agrawal
+                                   #     CS undergraduate student          
 ## ![](https://komarev.com/ghpvc/?username=your-github-AgrVanshika&color=green)
 
 - 🔭 I’m currently working on learning arkouda 
