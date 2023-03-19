@@ -1,9 +1,7 @@
-                                        
-                                       
-                                  # Hi there 👋, I am Vanshika Agrawal
-                                   #     CS undergraduate student          
+<h1 align="center">Hi there 👋, I am Vanshika Agrawal</h1>
+<h3 align="center">CS Undergrad Student</h3>                            
+                                           
 ## ![](https://komarev.com/ghpvc/?username=your-github-AgrVanshika&color=green)
-
 - 🔭 I’m currently working on learning arkouda 
 - 🌱 I’m currently learning languages and their implementations
 - 👯 I’m looking to collaborate on projects
