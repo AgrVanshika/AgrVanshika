@@ -2,8 +2,8 @@
 <h3 align="center">CS Undergrad Student</h3>                            
                                            
 ## ![](https://komarev.com/ghpvc/?username=your-github-AgrVanshika&color=green)
-- 🔭 I’m currently working on learning [arkouda](https://github.com/njit-hpc-initiative/tutorial-arkouda-njit)
-- 🌱 I’m currently learning languages and their implementations
+- 🔭 I’m currently working on [arkouda](https://github.com/njit-hpc-initiative/tutorial-arkouda-njit)
+- 🌱 I’m currently learning about ML
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: agrawal.vanshika.work@gmail.com
 - 😄 Pronouns: she/her
