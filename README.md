@@ -14,9 +14,6 @@ Connect with me: <br />
 [![text](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/agrvanshika07)
 
 
-
-
-![Vanshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgrVanshika&theme=dracula&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgrVanshika&layout=compact)](https://github.com/AgrVanshika/github-readme-stats)
 <!--
 ![Vanshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgrVanshika&theme=dracula&show_icons=true)
