@@ -2,7 +2,6 @@
 <h3 align="center">CS Undergrad Student</h3>                            
                                            
 ## ![](https://komarev.com/ghpvc/?username=your-github-AgrVanshika&color=green)
-- 🔭 I’m currently working on ML projects.
 - 🌱 I’m currently learning forecasting and different models.
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: agrawal.vanshika.work@gmail.com
